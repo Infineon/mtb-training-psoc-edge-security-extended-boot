@@ -16,6 +16,7 @@ by Edge Protect Tools for provisioning PSOC™ Edge devices.
 1. Download the training [content](#content).
 2. Watch the video or review the presentation at your own pace.
 3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+4. Use the provided source files if needed to verify the solution. 
 
 ## Training level
 - E3: Advanced
@@ -23,7 +24,7 @@ by Edge Protect Tools for provisioning PSOC™ Edge devices.
 ## Pre-requisites 
 ### Recommended trainings
 - This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
-  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper).
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper/discover).
   - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 - For an introduction to PSOC™ Edge Security, visit https://github.com/Infineon/mtb-training-psoc-edge-security-intro
 
@@ -58,6 +59,7 @@ by Edge Protect Tools for provisioning PSOC™ Edge devices.
 - Training video at Infineon Academy (coming soon)
 - [Presentation](./Presentation/PSE84_Extended_Boot.pdf)
 - [Training manual](./Manual/PSE84_Training_manual_for_Extended%20Boot.pdf)
+- [Solution to labs](./Lab_Source/)
 
 ## References and resources
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
@@ -69,3 +71,4 @@ by Edge Protect Tools for provisioning PSOC™ Edge devices.
 | Date       | Version | Description             |
 |------------|---------|-------------------------|
 | 02/14/2026 | **     | First public release    |
+| 03/17/2026 | *A     | Update instructions for lab 2.<br> Update tool versions. <br>Add lab source.   |
