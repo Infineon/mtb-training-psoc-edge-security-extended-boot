@@ -56,7 +56,7 @@ by Edge Protect Tools for provisioning PSOC™ Edge devices.
 - Get hands-on experience modifying Extended Boot functionality
 
 ## Content
-- Training video at Infineon Academy (coming soon)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/12ad3300-32e7-404c-add3-8c6fed662d9b)
 - [Presentation](./Presentation/PSE84_Extended_Boot.pdf)
 - [Training manual](./Manual/PSE84_Training_manual_for_Extended%20Boot.pdf)
 - [Solution to labs](./Lab_Source/)
