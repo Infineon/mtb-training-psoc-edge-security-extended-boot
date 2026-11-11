@@ -23,8 +23,8 @@ by Edge Protect Tools for provisioning PSOC™ Edge devices.
 ## Prerequisites
 ### Recommended trainings
 - This training does not cover basic concepts of ModusToolbox™ and PSOC™ Edge.
-  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
-  - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/psocdeveloper).
+  - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge training collection at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 - For an introduction to PSOC™ Edge Security, visit the [PSOC™ Edge Security Intro training](https://github.com/Infineon/mtb-training-psoc-edge-security-intro).
 
 ### Tools (see [training manual](#content) for versions and installation instructions)
@@ -59,11 +59,14 @@ by Edge Protect Tools for provisioning PSOC™ Edge devices.
 - [Training manual](./Manual/PSE84_Training_manual_for_Extended%20Boot.pdf)
 - [Solution to labs](./Lab_Source/)
 
+## More PSOC™ Edge training
+- [PSOC™ Edge E8x2/E8x3/E8x5/E8x6 training](https://github.com/Infineon/psoc-training-edge-e8x6) — Landing page with the full learning path and all PSOC™ Edge trainings, including security, graphics, voice and audio, and machine learning.
+- [PSOC™ Edge training collection at Infineon Academy](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd) — Collection of videos for PSOC™ Edge trainings.
+
 ## References and resources
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
 - [Infineon Edge Protect](https://www.infineon.com/promo/edge-protect)
-- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
-- [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd)
+- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/psocdeveloper)
 
 ## History
 | Date       | Version | Description |
